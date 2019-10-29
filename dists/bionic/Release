@@ -1,0 +1,19 @@
+Origin: Bluekiri Demo
+Label: bluekiri
+Codename: bionic
+Date: Wed, 14 Nov 2018 10:28:15 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ b28df942b3dc7c8c3ae55a4fc096debc 1418 main/binary-amd64/Packages
+ cb49d2235a9e4bd85c50c4afa482487a 642 main/binary-amd64/Packages.gz
+ 0323fda46137b85755e1ba84dac2b02f 107 main/binary-amd64/Release
+SHA1:
+ ae6a3dc66845be11accc89a4d6dd8ec07afcbd82 1418 main/binary-amd64/Packages
+ 119eaed28ecd091beddc8b0061fa61732da68eca 642 main/binary-amd64/Packages.gz
+ ceed64d71e4342df3847321d0f35c8a598fc0af8 107 main/binary-amd64/Release
+SHA256:
+ 4970022300eb1b6c4972d47abfcb01ab7201f7465ee30467cdee6723fcc3feea 1418 main/binary-amd64/Packages
+ 3506e22d21e52814862d6e6955fc891cf3aae1fe4ef8f45a30e93bea25f083cb 642 main/binary-amd64/Packages.gz
+ 29aaa917530282eef64344ec8da1764ff1930caa1d859104c0401bfc06afec71 107 main/binary-amd64/Release

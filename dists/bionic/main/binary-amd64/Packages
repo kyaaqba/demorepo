@@ -1,0 +1,41 @@
+Package: demoapi
+Version: 1.0-0ubuntu1
+Architecture: amd64
+Maintainer: Bluekiri Demo <service@bluekiri.com>
+Installed-Size: 97210
+Depends: liblttng-ust0, libcurl4, libssl1.0.0, libkrb5-3, zlib1g
+Homepage: https://github.com/bluekiri/demoapi
+Priority: optional
+Section: net
+Filename: pool/main/d/demoapi/demoapi_1.0-0ubuntu1_amd64.deb
+Size: 26865944
+SHA256: 9d13e321a7845c39e3b66feb90a0a615cf628ab114c5ff618a9817e7fd534d15
+SHA1: 00feb5032b233a66cc3d1689fe1d9aad961264aa
+MD5sum: 2157d7747853e953f2f0b85b832d5dfd
+Description: efficient demo api server written in C#
+ This package provides the very efficient demo api server
+ written in C# for the .NET Core Platform
+ .
+ This is the main package with the binaries
+
+Package: demoapi-dbg
+Source: demoapi
+Version: 1.0-0ubuntu1
+Architecture: amd64
+Maintainer: Bluekiri Demo <service@bluekiri.com>
+Installed-Size: 177886
+Depends: demoapi (= 1.0-0ubuntu1)
+Homepage: https://github.com/bluekiri/demoapi
+Priority: optional
+Section: net
+Filename: pool/main/d/demoapi/demoapi-dbg_1.0-0ubuntu1_amd64.deb
+Size: 35153996
+SHA256: 79b7b203c14a1a94998484fd49872cd5b20266ae48f417484c900465180bc328
+SHA1: 21b7d2fc381a22813ff98f546bb03b01884ba95c
+MD5sum: afe2f1d67b5699ff53ac50b621882b0b
+Description: efficient demo api server written in C#
+ This package provides the very efficient demo api server
+ written in C# for the .NET Core Platform
+ .
+ This package contains the debugging symbols.
+
